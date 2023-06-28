@@ -551,8 +551,10 @@ void toLowerCase(string &str){
 
 
 void readInitialData(list<Train>&trains, map<int, Passenger>&passengers){
-    // read information from the file
-    // save information to list of trains and map of passengers with keys theirs ids, and values - passengers
+    /*
+    read information from the file
+    save information to list of trains and map of passengers with keys theirs ids, and values - passengers
+    */
     ifstream info_file;
     info_file.open("info.txt");
     if (!info_file) {
@@ -566,7 +568,7 @@ void readInitialData(list<Train>&trains, map<int, Passenger>&passengers){
         int i = 1;
         while (!info_file.eof()){
             info_file >> key; // read first word(until space) in line to identify what is next information about
-            if (key == "Train:"){
+            if (key == "Train:"){ // if first word is Train: that means that following information will be about train
                 if (train.getCode() != 0){ // for case when information about previous train was filled
                     train.addWagon(wagon); // add last wagon to it
                     trains.push_back(train); // add train to list of trains
@@ -594,7 +596,7 @@ void readInitialData(list<Train>&trains, map<int, Passenger>&passengers){
                 double distance = stod(splitString(information[4])[1]);
                 train = Train (code, date, dep_stat, arr_stat, distance);
             }
-            else if(key == "Wagon:"){
+            else if(key == "Wagon:"){ // if first word is Wagon: that means that following information will be about wagon
                 if (wagon.getWagNum() != 0) // for case when information about previous wagon was filled
                     train.addWagon(wagon); // add wagon to current train
                 getline(info_file, line);
@@ -605,7 +607,7 @@ void readInitialData(list<Train>&trains, map<int, Passenger>&passengers){
                 wagon = Wagon (num_wag, seats_num);
                 
             }
-            else if (key == "Passenger:"){
+            else if (key == "Passenger:"){ // if first word is Passenger: that means that following information will be about passenger
                 getline(info_file, line);
                 information = splitString(line, ';');
                 int id, age, seat_number; 
