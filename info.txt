@@ -1,0 +1,79 @@
+Train: Code: 1; Date: 21/10/2022; Departure station: Madrid; Arrival station: Barcelona; Distance: 607.32 km
+Wagon: Number: 1; Seats number: 5
+Passenger: ID: 15; Name: Svyatoslav Rublov; Address: Vancouver; Age: 19; Gender: M; Baggage weight: 20 kg; Seat number: 1; Fee: 33 €
+Passenger: ID: 1; Name: Ivan Ocheretianyi; Address: Leganés; Age: 19; Gender: M; Baggage weight: 12 kg; Seat number: 2; Fee: 23 €
+Passenger: ID: 2; Name: Maxim Zakalata; Address: Kyiv; Age: 19; Gender: M; Baggage weight: 9 kg; Seat number: 3; Fee: 23 €
+Passenger: ID: 3; Name: Ira Sonechko; Address: Volodarka; Age: 19; Gender: F; Baggage weight: 5 kg; Seat number: 4; Fee: 23 €
+Passenger: ID: 9; Name: Bida Danilo; Address: Wettingen; Age: 18; Gender: M; Baggage weight: 14 kg; Seat number: 5; Fee: 29 €
+
+Wagon: Number: 2; Seats number: 6
+Passenger: ID: 4; Name: Dmytro Piven; Address: Villacañas; Age: 22; Gender: M; Baggage weight: 20 kg; Seat number: 1; Fee: 20 €
+Passenger: ID: 5; Name: Veronika Bugai; Address: Hlevaha; Age: 17; Gender: F; Baggage weight: 10 kg; Seat number: 2; Fee: 20 €
+Passenger: ID: 6; Name: Andriy Ocheretianyi; Address: New York; Age: 24; Gender: M; Baggage weight: 24 kg; Seat number: 3; Fee: 20 €
+Passenger: ID: 12; Name: Nastya Dotsya; Address: Bern; Age: 18; Gender: F; Baggage weight: 8 kg; Seat number: 4; Fee: 19 €
+Passenger: ID: 13; Name: Yegor Borsch; Address: Munich; Age: 19; Gender: M; Baggage weight: 13 kg; Seat number: 6; Fee: 21 €
+
+
+Train: Code: 2; Date: 9/5/2022; Departure station: Kyiv; Arrival station: Dnipro; Distance: 442 km
+Wagon: Number: 1; Seats number: 30
+Passenger: ID: 7; Name: Glib Tsibylkin; Address: Tarasivka; Age: 19; Gender: M; Baggage weight: 24 kg; Seat number: 7; Fee: 12 €
+Passenger: ID: 14; Name: David Baryga; Address: Tarasivka; Age: 18; Gender: M; Baggage weight: 3 kg; Seat number: 8; Fee: 13 €
+Passenger: ID: 15; Name: Svyatoslav Rublov; Address: Vancouver; Age: 19; Gender: M; Baggage weight: 20 kg; Seat number: 9; Fee: 13 €
+Passenger: ID: 1; Name: Ivan Ocheretianyi; Address: Leganés; Age: 19; Gender: M; Baggage weight: 12 kg; Seat number: 21; Fee: 15 €
+Passenger: ID: 3; Name: Ira Sonechko; Address: Volodarka; Age: 19; Gender: F; Baggage weight: 5 kg; Seat number: 22; Fee: 15 €
+
+Wagon: Number: 2; Seats number: 30
+Passenger: ID: 2; Name: Maxim Zakalata; Address: Kyiv; Age: 19; Gender: M; Baggage weight: 9 kg; Seat number: 2; Fee: 12 €
+Passenger: ID: 5; Name: Veronika Bugai; Address: Hlevaha; Age: 17; Gender: F; Baggage weight: 10 kg; Seat number: 3; Fee: 10 €
+Passenger: ID: 11; Name: Maria Popovych; Address: Kyiv; Age: 18; Gender: F; Baggage weight: 11 kg; Seat number: 15; Fee: 15 €
+Passenger: ID: 8; Name: Lena Starosta; Address: Dortmund; Age: 23; Gender: F; Baggage weight: 22 kg; Seat number: 26; Fee: 9 €
+Passenger: ID: 6; Name: Andriy Ocheretianyi; Address: New York; Age: 24; Gender: M; Baggage weight: 24 kg; Seat number: 27; Fee: 8 €
+
+
+Train: Code: 3; Date: 1/1/2022; Departure station: New York; Arrival station: Los Angeles; Distance: 2787 km
+Wagon: Number: 1; Seats number: 100
+Passenger: ID: 4; Name: Dmytro Piven; Address: Villacañas; Age: 22; Gender: M; Baggage weight: 20 kg; Seat number: 19; Fee: 300 €
+Passenger: ID: 3; Name: Ira Sonechko; Address: Volodarka; Age: 19; Gender: F; Baggage weight: 5 kg; Seat number: 23; Fee: 290 €
+Passenger: ID: 1; Name: Ivan Ocheretianyi; Address: Leganés; Age: 19; Gender: M; Baggage weight: 12 kg; Seat number: 24; Fee: 300 €
+Passenger: ID: 15; Name: Svyatoslav Rublov; Address: Vancouver; Age: 19; Gender: M; Baggage weight: 20 kg; Seat number: 86; Fee: 330 €
+Passenger: ID: 10; Name: Anna Sarikova; Address: Munich; Age: 19; Gender: F; Baggage weight: 10 kg; Seat number: 87; Fee: 279 €
+
+Wagon: Number: 2; Seats number: 100
+Passenger: ID: 8; Name: Lena Starosta; Address: Dortmund; Age: 23; Gender: F; Baggage weight: 22 kg; Seat number: 12; Fee: 375 €
+Passenger: ID: 6; Name: Andriy Ocheretianyi; Address: New York; Age: 24; Gender: M; Baggage weight: 24 kg; Seat number: 13; Fee: 350 €
+Passenger: ID: 7; Name: Glib Tsibylkin; Address: Tarasivka; Age: 19; Gender: M; Baggage weight: 24 kg; Seat number: 44; Fee: 350 €
+Passenger: ID: 13; Name: Yegor Borsch; Address: Munich; Age: 19; Gender: M; Baggage weight: 13 kg; Seat number: 45; Fee: 328 €
+Passenger: ID: 9; Name: Bida Danilo; Address: Wettingen; Age: 18; Gender: M; Baggage weight: 14 kg; Seat number: 46; Fee: 369 €
+
+
+Train: Code: 4; Date: 1/8/2022; Departure station: Munich; Arrival station: Zurich; Distance: 273 km
+Wagon: Number: 1; Seats number: 30
+Passenger: ID: 8; Name: Lena Starosta; Address: Dortmund; Age: 23; Gender: F; Baggage weight: 22 kg; Seat number: 1; Fee: 12 €
+Passenger: ID: 13; Name: Yegor Borsch; Address: Munich; Age: 19; Gender: M; Baggage weight: 13 kg; Seat number: 5; Fee: 11 €
+Passenger: ID: 9; Name: Bida Danilo; Address: Wettingen; Age: 18; Gender: M; Baggage weight: 14 kg; Seat number: 6; Fee: 9 €
+Passenger: ID: 1; Name: Ivan Ocheretianyi; Address: Leganés; Age: 19; Gender: M; Baggage weight: 12 kg; Seat number: 7; Fee: 10 €
+Passenger: ID: 12; Name: Nastya Dotsya; Address: Bern; Age: 18; Gender: F; Baggage weight: 8 kg; Seat number: 8; Fee: 9 €
+
+Wagon: Number: 2; Seats number: 30
+Passenger: ID: 10; Name: Anna Sarikova; Address: Munich; Age: 19; Gender: F; Baggage weight: 10 kg; Seat number: 1; Fee: 9 €
+Passenger: ID: 11; Name: Maria Popovych; Address: Kyiv; Age: 18; Gender: F; Baggage weight: 11 kg; Seat number: 3; Fee: 10 €
+Passenger: ID: 5; Name: Veronika Bugai; Address: Hlevaha; Age: 17; Gender: F; Baggage weight: 10 kg; Seat number: 28; Fee: 12 €
+Passenger: ID: 2; Name: Maxim Zakalata; Address: Kyiv; Age: 19; Gender: M; Baggage weight: 9 kg; Seat number: 29; Fee: 11 €
+Passenger: ID: 14; Name: David Baryga; Address: Tarasivka; Age: 18; Gender: M; Baggage weight: 3 kg; Seat number: 30; Fee: 13 €
+
+
+Train: Code: 20; Date: 22/12/2022; Departure station: Madrid; Arrival station: Kyiv; Distance: 3301 km
+Wagon: Number: 1; Seats number: 100
+Passenger: ID: 1; Name: Ivan Ocheretianyi; Address: Leganés; Age: 19; Gender: M; Baggage weight: 12 kg; Seat number: 7; Fee: 500 €
+Passenger: ID: 3; Name: Ira Sonechko; Address: Volodarka; Age: 19; Gender: F; Baggage weight: 5 kg; Seat number: 8; Fee: 400 €
+Passenger: ID: 8; Name: Lena Starosta; Address: Dortmund; Age: 23; Gender: F; Baggage weight: 22 kg; Seat number: 49; Fee: 550 €
+Passenger: ID: 6; Name: Andriy Ocheretianyi; Address: New York; Age: 24; Gender: M; Baggage weight: 24 kg; Seat number: 50; Fee: 550 €
+Passenger: ID: 4; Name: Dmytro Piven; Address: Villacañas; Age: 22; Gender: M; Baggage weight: 20 kg; Seat number: 97; Fee: 520 €
+
+Wagon: Number: 2; Seats number: 100
+Passenger: ID: 9; Name: Bida Danilo; Address: Wettingen; Age: 18; Gender: M; Baggage weight: 14 kg; Seat number: 24; Fee: 459 €
+Passenger: ID: 7; Name: Glib Tsibylkin; Address: Tarasivka; Age: 19; Gender: M; Baggage weight: 24 kg; Seat number: 25; Fee: 450 €
+Passenger: ID: 5; Name: Veronika Bugai; Address: Hlevaha; Age: 17; Gender: F; Baggage weight: 10 kg; Seat number: 28; Fee: 501 €
+Passenger: ID: 2; Name: Maxim Zakalata; Address: Kyiv; Age: 19; Gender: M; Baggage weight: 9 kg; Seat number: 29; Fee: 502 €
+Passenger: ID: 11; Name: Maria Popovych; Address: Kyiv; Age: 18; Gender: F; Baggage weight: 11 kg; Seat number: 52; Fee: 490 €
+Passenger: ID: 10; Name: Anna Sarikova; Address: Munich; Age: 19; Gender: F; Baggage weight: 10 kg; Seat number: 53; Fee: 479 €
